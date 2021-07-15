@@ -4,5 +4,5 @@ I was undergoing a course in udemy where it was taught that you can fetch data f
 The website used here was provided by the tutor and you can also fetch data from it. 
 The link is "https://bluelimelearning.github.io/my-fav-quotes/".
 Using beautifulSoup the data is fetched.
-you can check out the BeautifulSoup scrapping file in the repo. \n
+you can check out the BeautifulSoup scrapping file in the repo.
 I have also uploaded the resulting csv file.
